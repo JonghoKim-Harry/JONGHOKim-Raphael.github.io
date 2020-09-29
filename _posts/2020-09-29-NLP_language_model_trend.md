@@ -4,14 +4,17 @@ layout: default
 comments: true
 categories: [NLP]
 ---
-
-# 1. Attention
-
-
-# 2. Transformer
+# INTRODUCTION
+최근 각광받는 NLP 모델에 대해 간단히 정리 중이다.
 
 
-# 3. OpenAI GPT
+## 1. Attention
 
 
-# 4. BERT
+## 2. Transformer
+
+
+## 3. OpenAI GPT
+
+
+## 4. BERT
