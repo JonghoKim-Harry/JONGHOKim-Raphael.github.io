@@ -1,4 +1,5 @@
 ---
+author_profile: true
 title: NLP LANGUAGE MODEL TREND
 layout: default
 comments: true
