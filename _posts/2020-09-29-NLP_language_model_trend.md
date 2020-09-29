@@ -3,7 +3,6 @@ title: NLP LANGUAGE MODEL TREND
 layout: post
 comments: true
 categories: [NLP]
-tags: [AI] [NLP]
 ---
 
 # 1. Attention
