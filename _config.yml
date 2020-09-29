@@ -101,7 +101,7 @@ author:
   links:
     - label: "Email"
       icon:  "fas fa-fw fa-envelope-square"
-      url:   "scurry2119@gmail.com"
+      url:   "https://scurry2119@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
