@@ -1,14 +1,18 @@
 ---
 title: NLP LANGUAGE MODEL TREND
-categories: AI, NLP
+layout: post
+comments: true
+categories: [NLP]
+tags: [AI] [NLP]
 ---
-1. Attention
+
+# 1. Attention
 
 
-2. Transformer
+# 2. Transformer
 
 
-3. OpenAI GPT
+# 3. OpenAI GPT
 
 
-4. BERT
+# 4. BERT
