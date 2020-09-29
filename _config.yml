@@ -96,7 +96,7 @@ author:
   name             : "JONGHO KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Seongnam-si, Gyeonggi-do, Korea"
+  location         : "Seongnam-si, Korea"
   email            :
   links:
     - label: "Email"
