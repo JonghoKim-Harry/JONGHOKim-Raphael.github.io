@@ -1,6 +1,6 @@
 ---
 title: NLP LANGUAGE MODEL TREND
-layout: default
+layout: post
 comments: true
 categories: [NLP]
 tags: [AI, NLP, Language Model]
