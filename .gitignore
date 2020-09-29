@@ -1,3 +1,6 @@
+# Nohup File
+nohup.out
+
 # Ruby Gem
 *.gem
 .bundle
