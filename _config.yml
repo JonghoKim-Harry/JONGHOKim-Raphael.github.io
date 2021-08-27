@@ -23,7 +23,7 @@ title                    : "JONGHO KIM's BLOG"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JONGHO KIM"
-description              : "JONGHO KIM's PERSONAL BLOG"
+description              : "JONGHO KIM's BLOG"
 url                      : "https://jonghokim-raphael.github.io"   # the base hostname & protocol for your site e.g. https://mmistakes.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,29 +97,14 @@ analytics:
 # Site Author
 author:
   name             : "JONGHO KIM"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : img/Jongho_Kim.jpg
   bio              : "BE HAPPY. STAY STRONG"
   location         : "Seongnam-si, Korea"
-  email            :
+  email            : scurry2119@gmail.com
   links:
-    - label: "Email"
-      icon:  "fas fa-fw fa-envelope-square"
-      url:   "mailto:scurry2119@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jonghokim-raphael"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
